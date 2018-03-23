@@ -1,0 +1,23 @@
+{
+  "name": "node-itunes",
+  "version": "0.5.1",
+  "description": "Interact with iTunes through node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyas-n/node-itunes.git"
+  },
+  "keywords": [
+    "itunes",
+    "mac"
+  ],
+  "author": "shreyas-n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyas-n/node-itunes/issues"
+  },
+  "homepage": "https://github.com/shreyas-n/node-itunes#readme"
+}
